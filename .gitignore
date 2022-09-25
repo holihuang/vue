@@ -1,0 +1,6 @@
+vue2/dist
+vue2/node_modules
+vue3/dist
+vue3/node_modules
+vue3-ts/dist
+vue3-ts/node_modules
