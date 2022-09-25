@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkhello_world"]=self["webpackChunkhello_world"]||[]).push([[638],{3638:function(e,l,n){n.r(l),n.d(l,{default:function(){return i}});var t=function(){var e=this,l=e.$createElement,n=e._self._c||l;return n("div",[e._v("this is c")])},o=[],u={mounted(){console.log("this is c component did mount...")}},s=u,c=n(1001),r=(0,c.Z)(s,t,o,!1,null,null,null),i=r.exports}}]);
+//# sourceMappingURL=638.21389a54.js.map

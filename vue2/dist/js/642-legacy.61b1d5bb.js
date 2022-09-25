@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkhello_world"]=self["webpackChunkhello_world"]||[]).push([[642],{8642:function(e,l,n){n.r(l),n.d(l,{default:function(){return i}});var t=function(){var e=this,l=e.$createElement,n=e._self._c||l;return n("div",[e._v("this is aa")])},u=[],o={mounted:function(){console.log(this.$router,111)}},r=o,s=n(1001),c=(0,s.Z)(r,t,u,!1,null,null,null),i=c.exports}}]);
+//# sourceMappingURL=642-legacy.61b1d5bb.js.map

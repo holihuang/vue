@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkhello_world"]=self["webpackChunkhello_world"]||[]).push([[736],{8736:function(e,n,t){t.r(n),t.d(n,{default:function(){return d}});var o=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[e._v("this is b")])},l=[],c={mounted:function(){console.log("b component mounted...")},activated:function(){console.log("b component activeted...")},deactivated:function(){console.log("b component deactivated...")}},u=c,i=t(1001),a=(0,i.Z)(u,o,l,!1,null,null,null),d=a.exports}}]);
+//# sourceMappingURL=736-legacy.eb5d16b3.js.map

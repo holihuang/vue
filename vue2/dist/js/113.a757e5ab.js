@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkhello_world"]=self["webpackChunkhello_world"]||[]).push([[113],{9113:function(l,e,n){n.r(e),n.d(e,{default:function(){return i}});var t=function(){var l=this,e=l.$createElement,n=l._self._c||e;return n("div",[l._v("this is bb ")])},u=[],r=n(1001),s={},c=(0,r.Z)(s,t,u,!1,null,null,null),i=c.exports}}]);
+//# sourceMappingURL=113.a757e5ab.js.map
